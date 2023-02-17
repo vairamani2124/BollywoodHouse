@@ -10,7 +10,9 @@ public class AjithKumar {
 		System.out.println("HE is super star of tamil cenima");
 
 		System.out.println("HE is big star  of tamil cenima");
-
+		
+		System.out.println("next project Ak 62 Lyca productions");
+    
 		
 
 	}
