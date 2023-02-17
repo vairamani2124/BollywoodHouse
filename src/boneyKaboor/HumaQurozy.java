@@ -9,6 +9,8 @@ public class HumaQurozy {
 		
 		System.out.println("he is a debute of tamil film");
 		
+		
+		
 	}
 
 }
