@@ -6,7 +6,11 @@ public class AjithKumar {
 		// TODO Auto-generated method stub
 		
 		System.out.println("HERO OF THIS FILM");
+
 		System.out.println("HE is super star of tamil cenima");
+
+		System.out.println("HE is big star  of tamil cenima");
+
 		
 
 	}
